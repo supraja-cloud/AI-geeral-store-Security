@@ -1,1 +1,1 @@
-# AI-geeral-store-Security
+# AI-general-store-Security
